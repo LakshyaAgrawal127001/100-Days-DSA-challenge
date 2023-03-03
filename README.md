@@ -2,4 +2,5 @@
 100 days complete DSA Starting in 1 march
 
 Day 1 - Time and Space Complexity <br>
-Day 2 - Arrays 
+Day 2 - Arrays <br>
+Day 3 - Arrays <br>
